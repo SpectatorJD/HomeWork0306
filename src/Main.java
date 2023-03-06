@@ -12,5 +12,6 @@ public class Main {
     public static void task2 () {
         System.out.println("Задача 2");
 
+
     }
 }
